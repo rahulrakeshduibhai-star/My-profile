@@ -1,6 +1,6 @@
 <div align="center">
 
-# âœ¨ Rahul Biswas  âœ¨
+# Rahul Biswas  âœ¨
 
 <p><em>Welcome to my GitHub profile </em></p>
 
@@ -8,27 +8,26 @@
 
 </div>
 
-## ðŸ”­ I'm currently working on
+##­ I'm currently working on
 
 <div align="center"><p>Just my profile </p></div>
 
-## ðŸŒ± I'm currently learning
+## I'm currently learning
 
 <div align="center"><p>Learning C,C++,web development </p></div>
 
-## ðŸ‘€ I'm interested in
+## I'm interested in
 
 <div align="center"><p>Open source project building </p></div>
 
-## ðŸŒ Socials
+##  Socials
 
 <div align="center">
 
-<a href="https://GitHub.com/rahul.2006 "><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a [href=""><img](https://github.com/rahulrakeshduibhai-star/My-profile/edit/main/README.md) src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 </div>
-
-## ðŸ“« How to reach me
+## How to reach me
 
 <div align="center">
 
@@ -37,8 +36,6 @@
 
 </div>
 
-<div align="center">
-
-âœ¨ *Thanks for visiting my profile! Have a wonderful day!* âœ¨
+<div align="center"> *Thanks for visiting my profile! Have a wonderful day!* âœ¨
 
 </div>
